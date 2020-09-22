@@ -1,0 +1,132 @@
+/* font:roboto
+
+farbe (background/border): #eee, #ccc 
+farbe text: #659d89, #333, #666, #000 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+    margin: 0;
+}
+nav a {
+    text-decoration: none;
+    color: #659d89;
+
+
+}
+nav ul {
+    text-decoration: none;
+    margin:4% 0 0  5%;
+}
+nav li {
+    display: inline-block;
+    padding: 0 15px;
+}
+.work h1 {
+    color: #659d89;
+    font-size: 3.5em;
+    font-weight: 400;
+}
+.work h2 {
+    color: #333;
+    font-size: 3em;
+    font-weight: 400;
+    
+    
+}
+.work {
+    
+    margin:7% 0 0  8%;
+    
+}
+
+.social-media {
+    margin: 5% 0;
+
+}
+.social-media img {
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.social-media div {
+    margin: 0 90%;
+}
+.browse {
+    margin-left: 10%;
+    margin-bottom: 4%;
+
+}
+.browse p {
+    color: #666;
+}
+.struggle {
+    margin: 6% 10%;
+}
+.struggle h3 {
+    font-size: 1.7em;
+    font-weight: 400;
+}
+.struggle p {
+    color: #666;
+}
+.struggle article {
+    margin-bottom: 6%;
+    
+}
+
+.struggle img {
+    width: 25%;
+    margin: 4%;
+    
+}
+.ressources {
+    margin: 6% 10%;
+}
+.ressources h3 {
+    font-size: 1.7em;
+    font-weight: 400;
+}
+.ressources article {
+    margin: 7% 8%;
+}
+.ressources p {
+    
+    margin-left:12% ;
+}
+.one {
+    color: #666;
+}
+.img-right img{
+    margin: 0 35%;
+}
+.img-right p {
+    margin-left: 53%;
+}
+.img-right2 p {
+    
+    margin-left: 59%;
+}
+.img-right2 img{
+    width: 60%;
+    margin-left: 40%;
+}
+.guardian img {
+    width: 60%;
+}
+footer {
+    margin: 6% 0;
+}
+footer p {
+    text-align: center;
+    font-size: 1.5em;
+    color: #666;
+}
+
+
+
+
+
+    
+    
